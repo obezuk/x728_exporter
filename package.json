@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "i2c-bus": "^5.2.1",
+    "onoff": "^6.0.1",
+    "prom-client": "^12.0.0"
+  }
+}
