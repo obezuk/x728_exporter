@@ -1,6 +1,6 @@
 # X728 UPS Prometheus exporter
 
-Prometheus exporter for Raspberry Pi X728 UPS metrics, written in Node.js and runs in Docker. Useful for monitoring battery status with Prometheus and Grafana.
+Prometheus exporter for [Raspberry Pi X728 UPS](https://geekworm.com/products/raspberry-pi-x728-max-5-1v-8a-18650-ups-power-management-board) metrics, written in Node.js and runs in Docker. Useful for monitoring battery status with Prometheus and Grafana.
 
 Metrics are available from http://localhost:9728/metrics
 
