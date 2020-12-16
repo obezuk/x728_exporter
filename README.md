@@ -4,6 +4,8 @@ Prometheus exporter for Raspberry Pi X728 UPS metrics, written in Node.js and ru
 
 Metrics are available from http://localhost:9728/metrics
 
+![Example Grafana Dashboard](https://github.com/obezuk/x728_exporter/blob/master/dashboard.png?raw=true)
+
 ## Metrics
 - Battery Capacity (Decimal ranging from 0 and 1)
 - Voltage
